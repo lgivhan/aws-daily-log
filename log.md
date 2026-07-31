@@ -17,6 +17,9 @@
 
 **Next**
 
-- Re-check the portal tonight/tomorrow; book the Aug 21 slot once it appears
+- Re-check the [portal](https://aws.amazon.com/certification) tonight/tomorrow; book the Aug 21 slot once it appears
 - Buy Tutorials Dojo CLF-C02 practice set
 - Sunday: Practice Exam 1, cold + timed
+
+**Status (shareable)**
+Kicked off AWS Cloud Practitioner prep — targeting the exam by Aug 21, well inside the Q4 commitment. Study plan is set and registration is in progress. On track.
