@@ -23,3 +23,9 @@
 
 **Status (shareable)**
 Kicked off AWS Cloud Practitioner prep — targeting the exam by Aug 21, well inside the Q4 commitment. Study plan is set and registration is in progress. On track.
+
+## 2026-09-06 - Day 3
+
+- Resceduled exam from Sept 11 to Sept 27. Scheduled practice blocks.
+- Bought Dojo AWS Certified Cloud Practitioner Practice Exams CLF-C02 2026 course and took the Timed Mode Diagnostic Test
+- Finish Billing drill w/ Claude: support tiers done, pricing cost tools (Cost Explorer, Budgets, Cost & Usage Report)
