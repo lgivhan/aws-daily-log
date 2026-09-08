@@ -29,3 +29,7 @@ Kicked off AWS Cloud Practitioner prep — targeting the exam by Aug 21, well in
 - Resceduled exam from Sept 11 to Sept 27. Scheduled practice blocks.
 - Bought Dojo AWS Certified Cloud Practitioner Practice Exams CLF-C02 2026 course and took the Timed Mode Diagnostic Test
 - Finish Billing drill w/ Claude: support tiers done, pricing cost tools (Cost Explorer, Budgets, Cost & Usage Report)
+
+## 2026-09-07 - Day 4
+
+- 10-min flashcards, locked VPC/subnets/gateways.
