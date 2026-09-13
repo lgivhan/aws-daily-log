@@ -33,3 +33,7 @@ Kicked off AWS Cloud Practitioner prep — targeting the exam by Aug 21, well in
 ## 2026-09-07 - Day 4
 
 - 10-min flashcards, locked VPC/subnets/gateways.
+
+## 2026-09-13 - Day 5
+
+- Rescheduled exam to Oct 18
