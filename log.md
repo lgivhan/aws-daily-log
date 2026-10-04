@@ -37,3 +37,7 @@ Kicked off AWS Cloud Practitioner prep — targeting the exam by Aug 21, well in
 ## 2026-09-13 - Day 5
 
 - Rescheduled exam to Oct 18
+
+## 2026-10-04 - Day 6
+
+- Oct 4 · Section-Based · Cloud Concepts · reached Q6
