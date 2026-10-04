@@ -40,4 +40,4 @@ Kicked off AWS Cloud Practitioner prep — targeting the exam by Aug 21, well in
 
 ## 2026-10-04 - Day 6
 
-- Oct 4 · Section-Based · Cloud Concepts · reached Q6
+- Oct 4 · Section-Based · Cloud Concepts · reached Q17 doing 10m chunks of focused time with brief workouts in between
