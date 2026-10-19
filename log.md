@@ -41,3 +41,22 @@ Kicked off AWS Cloud Practitioner prep — targeting the exam by Aug 21, well in
 ## 2026-10-04 - Day 6
 
 - Oct 4 · Section-Based · Cloud Concepts · reached Q17 doing 10m chunks of focused time with brief workouts in between
+
+## 2026-10-06 - Day 7
+
+- Section-Based · Cloud Concepts · reached Q19
+
+## 2026-10-16 - Day 8
+
+- Rescheduled exam to Oct 30
+- Took practice exam and got
+  You have reached 23 of 65 point(s), (35.38%)
+
+CCP – Billing, Pricing and Support (46.67%)
+CCP – Cloud Concepts (33.33%)
+CCP – Cloud Technology and Services (25%)
+CCP – Security and Compliance (50%)
+
+## 2026-10-06 - Day 9
+
+- Did the "Section-Based – Cloud Technology and Services (CCP)" quiz and got 43.33% (nearly doubled score from 2 days ago)
