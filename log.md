@@ -57,6 +57,10 @@ CCP – Cloud Concepts (33.33%)
 CCP – Cloud Technology and Services (25%)
 CCP – Security and Compliance (50%)
 
-## 2026-10-06 - Day 9
+## 2026-10-18 - Day 9
 
 - Did the "Section-Based – Cloud Technology and Services (CCP)" quiz and got 43.33% (nearly doubled score from 2 days ago)
+
+## 2026-10-20 - Day 10
+
+- Retake "Section-Based – Cloud Technology and Services (CCP)" quiz and got 43.33% again!
