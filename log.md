@@ -64,3 +64,43 @@ CCP – Security and Compliance (50%)
 ## 2026-10-20 - Day 10
 
 - Retake "Section-Based – Cloud Technology and Services (CCP)" quiz and got 43.33% again!
+
+## 2026-10-22 - Day 11
+
+- Section-Based · Cloud Tech · partial, say-it-back
+
+## 2026-10-25 - Day 12
+
+- Scored 60% on Cloud Tech quiz
+
+## 2026-10-27 - Day 13
+
+- Scored 36.67% on Cloud Concepts quiz
+
+## 2026-10-28 — Day 14
+
+- Gate night: took full Timed Mode Set 1 (cold, 65 Q) → 41.54%
+  CCP – Billing, Pricing and Support (53.33%)
+  CCP – Cloud Concepts (41.67%)
+  CCP – Cloud Technology and Services (35.71%)
+  CCP – Security and Compliance (40%)
+- Gate call: below the ~65% go-line → rescheduled exam from Oct 30 to Nov 15
+- Read is clear: Cloud Tech climbs when drilled (25→43→60); other 3 domains still need the same say-it-back reps. Floor is un-done reps, not ability.
+
+**Next**
+
+- Nov run: say-it-back loop across all 4 domains, weakest first; cheat sheet as retrieval + glossary, not reading
+- Re-gate with a fresh Timed set ~Nov 12
+
+**Status (shareable)**
+Ran a full timed practice exam as a go/no-go checkpoint; came in under my bar, so I moved the exam to Nov 15 to close the gap properly rather than force an underprepared sitting. Method is working where I've applied it — my weakest domain climbed from 25% to 60% with focused drilling. Applying that same approach across the board. Booked and on track.
+
+## 2026-10-29 — Day 15
+
+- 10-min retrieval session: say-it-back loop on locked concepts, cold from memory
+- Nailed: EBS vs. instance store ("instant" = instance store, gone fast), Budgets (money) vs. CloudWatch (system performance), EBS (disk on a computer) vs. S3 (Dropbox-style web storage for files)
+- Worked through the S3/boot confusion to a clean answer instead of around it — it stuck
+- Method confirmed again: retrieval + analogy locks concepts fast, even on a low-energy night
+
+**Status (shareable)**
+Kept the chain alive with a focused retrieval session.
