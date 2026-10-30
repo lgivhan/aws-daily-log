@@ -85,7 +85,9 @@ CCP – Security and Compliance (50%)
   CCP – Cloud Technology and Services (35.71%)
   CCP – Security and Compliance (40%)
 - Gate call: below the ~65% go-line → rescheduled exam from Oct 30 to Nov 15
-- Read is clear: Cloud Tech climbs when drilled (25→43→60); other 3 domains still need the same say-it-back reps. Floor is un-done reps, not ability.
+- Read is clear: Cloud Tech climbs sharply when drilled in isolation (→60%), but faded to ~36% in a cold mixed exam days later.
+
+Takeaway: drilling works, AND gains need spaced reinforcement to survive — one pass isn't enough.
 
 **Next**
 
