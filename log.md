@@ -87,7 +87,19 @@ CCP – Security and Compliance (50%)
 - Gate call: below the ~65% go-line → rescheduled exam from Oct 30 to Nov 15
 - Read is clear: Cloud Tech climbs sharply when drilled in isolation (→60%), but faded to ~36% in a cold mixed exam days later.
 
-Takeaway: drilling works, AND gains need spaced reinforcement to survive — one pass isn't enough.
+### Gated Timed Exams: Oct 16 → Oct 28
+
+| Domain                      | Oct 16     | Oct 28     | Change     |
+| --------------------------- | ---------- | ---------- | ---------- |
+| Billing, Pricing & Support  | 46.67%     | 53.33%     | +6.7 ↑     |
+| Cloud Concepts              | 33.33%     | 41.67%     | +8.3 ↑     |
+| Cloud Technology & Services | 25%        | 35.71%     | +10.7 ↑    |
+| Security & Compliance       | 50%        | 40%        | −10 ↓      |
+| **Overall**                 | **35.38%** | **41.54%** | **+6.2 ↑** |
+
+**Read:** Three of four domains up; overall +6.2. Biggest gain (Cloud Tech, +10.7) is the one I drilled most — reps show up in the score. Security fell because I never re-touched it after Oct 16 — fade, not weakness.
+
+Takeaway: drilling works AND gains need maintenance.
 
 **Next**
 
